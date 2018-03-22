@@ -3,6 +3,6 @@
  <title>DOCUMENT</title>
  </head>
  <body>
- <%out.println("<h2>HELLO WORLD</h2>");) %>
+ <%out.println("<h2>HELLO WORLDROBOT</h2>");) %>
  </body>
 </html>
